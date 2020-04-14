@@ -1,0 +1,33 @@
+.card {
+    height: 40vh;
+}
+
+.first-card {
+    /* margin-bottom: 13.3vh; */
+}
+.card-css {
+    margin-bottom: 3vh;
+}
+
+.c1{
+    border-top: none !important;
+}
+.gre {
+    /* margin-right: -9rem; */
+    font-size: 1.2rem;
+    color: #e2e2e2;
+    float: right;
+}
+
+.card:hover{
+    box-shadow: -1px 3px 10px 0px rgba(0,0,0,0.8);
+}
+.card-action>a:hover{
+  color: black !important;
+}
+.gre:hover{
+    color: black !important;
+  }
+nav {
+    background-color: #26d0ff;
+}
